@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="614b3717-21cc-45f1-9b5a-6d8c3d825dc9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$pcjb_python.coverage" NAME="pcjb_python Coverage Results" MODIFIED="1554015700759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$tuxinghua.coverage" NAME="tuxinghua Coverage Results" MODIFIED="1551086307312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$day11.coverage" NAME="day11 Coverage Results" MODIFIED="1554015706877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$webb.coverage" NAME="webb Coverage Results" MODIFIED="1554625267688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_test_suopei_suopei_case_test_3.coverage" NAME="Unittests for test_suopei.suopei_case.test_3 Coverage Results" MODIFIED="1554380574732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$lalala.coverage" NAME="lalala Coverage Results" MODIFIED="1554380179119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_T_1_JianShu.coverage" NAME="Unittests for T_1.JianShu Coverage Results" MODIFIED="1554717349885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianshu/jianshu/test" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_test_dingdan_mingxi_zuoye_test_test_dingdanmingxi_1.coverage" NAME="Unittests for test_dingdan_mingxi.zuoye_test.test_dingdanmingxi_1 Coverage Results" MODIFIED="1554638665287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$suopei_duqu.coverage" NAME="suopei_duqu Coverage Results" MODIFIED="1554378090195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/data" />
+    <SUITE FILE_PATH="coverage/python$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1554175857749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$lx_python.coverage" NAME="lx_python Coverage Results" MODIFIED="1554685708741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$day5.coverage" NAME="day5 Coverage Results" MODIFIED="1550202520127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_test_peijian_mingxi_py.coverage" NAME="Unittests in test_peijian_mingxi.py Coverage Results" MODIFIED="1554639034626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1548469372753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$wjh_python.coverage" NAME="wjh_python Coverage Results" MODIFIED="1551084987233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="索赔 Coverage Results" MODIFIED="1554196313726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unnamed__2_.coverage" NAME="Unnamed (2) Coverage Results" MODIFIED="1554381335623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$tools.coverage" NAME="tools Coverage Results" MODIFIED="1554726454151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianshu/jianshu/config" />
+    <SUITE FILE_PATH="coverage/python$baogao.coverage" NAME="baogao Coverage Results" MODIFIED="1554382665876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/report" />
+    <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1554686566795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/driver" />
+    <SUITE FILE_PATH="coverage/python$yanqi_shuju.coverage" NAME="yanqi_shuju Coverage Results" MODIFIED="1554640263994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/data" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_dingdan_py.coverage" NAME="Unittests in dingdan.py Coverage Results" MODIFIED="1554255304128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1554252766126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$jb_python.coverage" NAME="jb_python Coverage Results" MODIFIED="1550886648725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_k_py.coverage" NAME="Unittests in k.py Coverage Results" MODIFIED="1554726458960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianshu/jianshu" />
+    <SUITE FILE_PATH="coverage/python$app_zd.coverage" NAME="app_zd Coverage Results" MODIFIED="1554801771897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_test_zheda_py.coverage" NAME="Unittests in test_zheda.py Coverage Results" MODIFIED="1554886343456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$day4.coverage" NAME="day4 Coverage Results" MODIFIED="1550495205667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_ceshi_py.coverage" NAME="Unittests in ceshi.py Coverage Results" MODIFIED="1554176493121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_test_dingdan_mingxi_zuoye_test_test_dingdanmingxi_5.coverage" NAME="Unittests for test_dingdan_mingxi.zuoye_test.test_dingdanmingxi_5 Coverage Results" MODIFIED="1554640478451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_test_yanqi_yongli_py.coverage" NAME="Unittests in test_yanqi_yongli.py Coverage Results" MODIFIED="1554377398400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_test_peijian_mingxi_zuoye_test.coverage" NAME="Unittests for test_peijian_mingxi.zuoye_test Coverage Results" MODIFIED="1554637766572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$Unnamed__1_.coverage" NAME="Unnamed (1) Coverage Results" MODIFIED="1554640467291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_test_dingdan_mingxi_py.coverage" NAME="Unittests in test_dingdan_mingxi.py Coverage Results" MODIFIED="1554639791901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_test_suopei_py.coverage" NAME="Unittests in test_suopei.py Coverage Results" MODIFIED="1554377308830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1550490341359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$yanqi_peizhi.coverage" NAME="yanqi_peizhi Coverage Results" MODIFIED="1554881319006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/config" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_T_1_JianShu_test_2.coverage" NAME="Unittests for T_1.JianShu.test_2 Coverage Results" MODIFIED="1554717486356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianshu/jianshu/test" />
+    <SUITE FILE_PATH="coverage/python$C_1.coverage" NAME="C_1 Coverage Results" MODIFIED="1554710502694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianshu/jianshu/config" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_test_dingdan_mingxi_zuoye_test.coverage" NAME="Unittests for test_dingdan_mingxi.zuoye_test Coverage Results" MODIFIED="1554885344057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1554886858595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+    <SUITE FILE_PATH="coverage/python$day3.coverage" NAME="day3 Coverage Results" MODIFIED="1550645158807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$test_yanqi_yongli.coverage" NAME="test_yanqi_yongli Coverage Results" MODIFIED="1554371967891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口_框架/suo_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="webb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="182" column="39" selection-start-line="182" selection-start-column="39" selection-end-line="182" selection-end-column="39" />
+              <folding>
+                <element signature="e#1806#1848#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_zheda.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_zheda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#36#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_yanqi_yongli.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_yanqi_yongli.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#36#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baogao.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/接口_框架/report/baogao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="e#36#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_zd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_zd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#36#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yanqi_shuju.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/接口_框架/data/yanqi_shuju.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2622">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yanqi_peizhi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/接口_框架/config/yanqi_peizhi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="e#36#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/d.txt" />
+        <option value="$PROJECT_DIR$/b.txt" />
+        <option value="$PROJECT_DIR$/a.txt" />
+        <option value="$PROJECT_DIR$/day5.py" />
+        <option value="$PROJECT_DIR$/day3.py" />
+        <option value="$PROJECT_DIR$/day4.py" />
+        <option value="$PROJECT_DIR$/day1.py" />
+        <option value="$PROJECT_DIR$/day2.py" />
+        <option value="$PROJECT_DIR$/tuxinghua.py" />
+        <option value="$PROJECT_DIR$/jb_python.py" />
+        <option value="$PROJECT_DIR$/wjh_python.py" />
+        <option value="$PROJECT_DIR$/ceshi.py" />
+        <option value="$PROJECT_DIR$/接口_框架/config/索赔.py" />
+        <option value="$PROJECT_DIR$/接口_框架/data/suopei_shuju.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/dingdan.py" />
+        <option value="$PROJECT_DIR$/接口_框架/driver/MAIN.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_kuaicha.py" />
+        <option value="$PROJECT_DIR$/接口_框架/config/bbbb.py" />
+        <option value="$PROJECT_DIR$/接口_框架/data/peizhi_zhixing.py" />
+        <option value="$PROJECT_DIR$/接口_框架/config/yanqi.py" />
+        <option value="$PROJECT_DIR$/接口_框架/data/dingdan_zhixing.py" />
+        <option value="$PROJECT_DIR$/接口_框架/data/suopei_duqu.py" />
+        <option value="$PROJECT_DIR$/lalala.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_suopei.py" />
+        <option value="$PROJECT_DIR$/接口_框架/driver/回归.txt" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_yanqi_yongli.py" />
+        <option value="$PROJECT_DIR$/接口_框架/driver/main.py" />
+        <option value="$PROJECT_DIR$/接口/test_chaxun_dingdan.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_shouye_zhuangtai.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_chaxun_dingdan.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_peijian_mingxi.py" />
+        <option value="$PROJECT_DIR$/pcjb_python.py" />
+        <option value="$PROJECT_DIR$/lx_python.py" />
+        <option value="$PROJECT_DIR$/jianshu/jianshu/config/tools.py" />
+        <option value="$PROJECT_DIR$/jianshu/jianshu/config/C_1.py" />
+        <option value="$PROJECT_DIR$/jianshu/jianshu/test/T_1.py" />
+        <option value="$PROJECT_DIR$/jianshu/jianshu/k.py" />
+        <option value="$PROJECT_DIR$/接口_框架/report/baogao.py" />
+        <option value="$PROJECT_DIR$/app_zd.py" />
+        <option value="$PROJECT_DIR$/接口_框架/data/yanqi_shuju.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_dingdan_mingxi.py" />
+        <option value="$PROJECT_DIR$/接口_框架/suo_test/test_zheda.py" />
+        <option value="$PROJECT_DIR$/接口_框架/config/yanqi_peizhi.py" />
+        <option value="$PROJECT_DIR$/webb.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python学习" type="462c0819:PsiDirectoryNode" />
+              <item name="接口_框架" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python学习" type="462c0819:PsiDirectoryNode" />
+              <item name="接口_框架" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python学习" type="462c0819:PsiDirectoryNode" />
+              <item name="接口_框架" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python学习" type="462c0819:PsiDirectoryNode" />
+              <item name="接口_框架" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python学习" type="462c0819:PsiDirectoryNode" />
+              <item name="接口_框架" type="462c0819:PsiDirectoryNode" />
+              <item name="suo_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/接口_框架/suo_test/test_zheda.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.26192793" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fang\Desktop\python学习\接口_框架\suo_test" />
+      <recent name="C:\Users\fang\Desktop\python学习\接口_框架\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="python学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Users\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/接口_框架/suo_test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/接口_框架/suo_test/test_zheda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="614b3717-21cc-45f1-9b5a-6d8c3d825dc9" name="Default" comment="" />
+      <created>1547031527903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547031527903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_dingdan_mingxi_zuoye_test_test_dingdanmingxi_5 - 2019.04.07 at 20h 34m 39s.xml">
+      <configuration name="Unittests for test_dingdan_mingxi.zuoye_test.test_dingdanmingxi_5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_T_1_JianShu - 2019.04.08 at 17h 55m 50s.xml">
+      <configuration name="Unittests for T_1.JianShu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_T_1_JianShu_test_2 - 2019.04.08 at 17h 57m 06s.xml">
+      <configuration name="Unittests for T_1.JianShu.test_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_T_1_JianShu_test_2 - 2019.04.08 at 17h 58m 06s.xml">
+      <configuration name="Unittests for T_1.JianShu.test_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_k_py - 2019.04.08 at 20h 25m 38s.xml">
+      <configuration name="Unittests in k.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_k_py - 2019.04.08 at 20h 27m 02s.xml">
+      <configuration name="Unittests in k.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_k_py - 2019.04.08 at 20h 28m 06s.xml">
+      <configuration name="Unittests in k.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_dingdan_mingxi_zuoye_test - 2019.04.10 at 16h 34m 32s.xml">
+      <configuration name="Unittests for test_dingdan_mingxi.zuoye_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_dingdan_mingxi_zuoye_test - 2019.04.10 at 16h 35m 44s.xml">
+      <configuration name="Unittests for test_dingdan_mingxi.zuoye_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_zheda_py - 2019.04.10 at 16h 52m 24s.xml">
+      <configuration name="Unittests in test_zheda.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39247313" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8729282" visible="true" weight="0.10732648" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" sideWeight="0.12707183" side_tool="true" weight="0.15616967" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25537634" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8729282" visible="true" weight="0.15616967" />
+      <window_info id="Structure" order="1" sideWeight="0.12707183" side_tool="true" visible="true" weight="0.15616967" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2701613" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25537634" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/abc.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjh_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3634">
+          <caret line="383" column="5" selection-start-line="383" selection-start-column="5" selection-end-line="383" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuxinghua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wjq_python.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jb_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12190">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunnertest.py" />
+    <entry file="file://$PROJECT_DIR$/abc.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/data/suopei_shuju.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/config/索赔.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/config/suopei.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/dingdan.py" />
+    <entry file="file://$PROJECT_DIR$/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/data/peizhi_zhixing.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/data/dingdan_zhixing.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/config/yanqi.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/report/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/driver/回归.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_kuaicha.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_ding.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/config/bbbb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/config/aaaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1091">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口/test_chaxun_dingdan.py" />
+    <entry file="file://$PROJECT_DIR$/接口/zuoye_dingdan.py" />
+    <entry file="file://$PROJECT_DIR$/接口/zuoye_canshu.py" />
+    <entry file="file://$PROJECT_DIR$/接口_框架/data/suopei_duqu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_suopei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="377" column="8" selection-start-line="377" selection-start-column="8" selection-end-line="377" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/report/mm.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_shouye_zhuangtai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_chaxun_dingdan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/Python/Python37/Lib/unittest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_peijian_mingxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pcjb_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianshu/jianshu/config/C_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianshu/jianshu/test/T_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2392">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianshu/jianshu/element/login.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianshu/jianshu/data/login.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianshu/jianshu/config/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianshu/jianshu/k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2990">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lalala.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/driver/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_dingdan_mingxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_zd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#36#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/config/yanqi_peizhi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#36#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/data/yanqi_shuju.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_zheda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#36#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/suo_test/test_yanqi_yongli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#36#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口_框架/report/baogao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#36#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="182" column="39" selection-start-line="182" selection-start-column="39" selection-end-line="182" selection-end-column="39" />
+          <folding>
+            <element signature="e#1806#1848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
